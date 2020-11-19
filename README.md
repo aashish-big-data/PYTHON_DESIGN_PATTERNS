@@ -18,6 +18,8 @@ Interface segregation principle==>
   
 
 Dependency inversion principle==>
-  One should depend upon abstraction 
+  One should depend upon abstraction and not on internal implementation.
+  Client code should not be affected with base changes in base classes.
+  
   
   
