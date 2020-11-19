@@ -21,5 +21,31 @@ Dependency inversion principle==>
   One should depend upon abstraction and not on internal implementation.
   Client code should not be affected with base changes in base classes.
   
+
+
+Design Patterns:
+
+1 Object Creational
+  1.1  Singleton
+  1.2  Builder 
+  1.3  factory
+  1.4  Abstract
   
+  
+2 Structural  and Relationship
+
+  2.1   Adapter
+  2.2   Bridge
+  2.3   Facade
+  2.4   Decorator
+  2.5   Chain of command
+  2.6   Model View
+  2.7   Observer 
+  2.8   Strategy
+  2.9   Visitor
+  
+    
+  
+
+
   
