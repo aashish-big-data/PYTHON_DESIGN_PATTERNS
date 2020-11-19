@@ -52,7 +52,8 @@ class ProductFilter:
 	
 	# Solution is OCP = open for extension, closed for modification
 
-	
+   #  we are using Requirement_Specification CLASS , and hence using and implementing extendability here.
+
 class Requirement_Specification:
     def is_satisfied(self, product):
         pass
