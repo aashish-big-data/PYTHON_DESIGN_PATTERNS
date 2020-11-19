@@ -2,6 +2,8 @@
 """
 
 @author: AASHISH
+                                    Connecting one hierarchy with another via Bridge
+                                    
 """
 # Circles and squares
 # They can be  rendered in vector or raster form
