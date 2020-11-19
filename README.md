@@ -14,7 +14,8 @@ Liskov substitution principle==>
   Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also design by contract.
 
 Interface segregation principle==>
-  Many client-specific interfaces are better than one general-purpose interface
+  Having specific intefaces separately. OLD PRINTER should not have FAX implementation, which can be misleading even , we do not implement it.
+  
 
 Dependency inversion principle==>
   One should depend upon abstraction 
